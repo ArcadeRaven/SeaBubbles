@@ -1,3 +1,3 @@
 # SeaBubbles
-# Trey
-# Tyler
+# Trey Alexander
+# Tyler Sandes
